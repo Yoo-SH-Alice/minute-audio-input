@@ -4,7 +4,7 @@ AI기반 회의록 작성 프로그램 입력부분 프로토타입 입니다
 실행을 위해서 아래 내용을 실행해주세요
 
 
-### Windows에 FFMEGG 설치 방법
+### Windows에 FFMPEG 설치 방법
 1. [ffmpeg download](https://ffmpeg.org/download.html) 에 접속해서 Window로고에 마우스를 올리면(오버레이)
 2. Windows 로고 바로아래에 gyan.dev를 클릭합니다
 3. ffmpeg-git-full.7z 를 클릭해서 다운로드 받습니다
